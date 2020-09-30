@@ -13,7 +13,7 @@ yarn add -D @logic-warlock/eslint-config
 With NPM:
 
 ```
-npm install -dev @logic-warlock/eslint-config
+npm install --save @logic-warlock/eslint-config
 ```
 
 All you need to do is add `@logic-warlock` to your `.eslintrc` file within `extends`.
