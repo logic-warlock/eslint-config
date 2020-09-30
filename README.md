@@ -20,7 +20,7 @@ All you need to do is add `@logic-warlock` to your `.eslintrc` file within `exte
 
 ```
 {
-  extends: [@logic-warlock]
+  extends: ["@logic-warlock"]
 }
 ```
 
