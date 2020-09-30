@@ -1,0 +1,19 @@
+{
+  "name": "@logic-warlock/eslint-config",
+  "description": "Base JavaScript elsint rules",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Kaemon Lovendahl",
+  "contributors": [
+    "Kaemon Lovendahl <kaemonlovendahl@outlook.com>"
+  ],
+  "dependencies": {
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-config-prettier": "^6.5.0",
+    "eslint-plugin-jsdoc": "^30.4.0"
+  },
+  "peerDependencies": {
+    "eslint": "^6.5.1",
+    "eslint-plugin-import": "^2.18.2"
+  }
+}
